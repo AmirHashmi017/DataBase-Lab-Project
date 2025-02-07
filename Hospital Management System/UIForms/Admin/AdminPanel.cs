@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AMS.UIForms.Admin;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -76,7 +77,10 @@ namespace Skylines.UIForms.admin
 
         private void guna2GradientButton6_Click(object sender, EventArgs e)
         {
-            
+            this.Hide();
+            Add_Doctor add_Doctor = new Add_Doctor();
+            add_Doctor.Show();
+
         }
 
         private void guna2GradientButton10_Click(object sender, EventArgs e)
@@ -86,7 +90,9 @@ namespace Skylines.UIForms.admin
 
         private void guna2GradientButton8_Click(object sender, EventArgs e)
         {
-            
+            this.Hide();
+            Add_Nurse add_Nurse = new Add_Nurse();
+            add_Nurse.Show();
         }
 
         private void guna2GradientButton9_Click(object sender, EventArgs e)

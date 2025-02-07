@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Skylines.UIForms.admin;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,7 +21,7 @@ namespace AMS.UIForms.Admin
         private void Clear()
         {
             ID.Text = "";
-            Name.Text = "";
+            NurseName.Text = "";
             DeptID.Text = "";
             number.Text = "";
             salary.Text = "";
@@ -29,14 +30,14 @@ namespace AMS.UIForms.Admin
         {
             string con = "your_connection_string_here";
             string query = "INSERT INTO Nurse (NurseID, NurseName, DepartmentID, PhoneNumber, Salary)"
-                + "VALUES (@ID,@Name,@DeptID,@number,@salary)";
+                + "VALUES (@ID,@NurseName,@DeptID,@number,@salary)";
             using (SqlConnection connection = new SqlConnection(con))
             {
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
                     connection.Open();
                     command.Parameters.AddWithValue("@ID",ID.Text);
-                    command.Parameters.AddWithValue("@Name", Name.Text);
+                    command.Parameters.AddWithValue("@NurseName", NurseName.Text);
                     command.Parameters.AddWithValue("@DeptID", DeptID.Text);
                     command.Parameters.AddWithValue("@number", number.Text);
                     command.Parameters.AddWithValue("@salary", salary.Text);
@@ -46,6 +47,13 @@ namespace AMS.UIForms.Admin
                     Clear();
                 }
             }
+        }
+
+        private void guna2GradientButton2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            AdminPanel adminPanel = new AdminPanel();
+            adminPanel.Show();
         }
     }
 }
