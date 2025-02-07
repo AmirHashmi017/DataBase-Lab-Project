@@ -441,3 +441,24 @@ D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.cs
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.Up2Date
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.exe
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.pdb
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.AssemblyReference.cache
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.Form1.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.Properties.Resources.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.test.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Doctor.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Nurse.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.DoctorPanel.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.View_Appointments.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.Login.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.SignUp.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.GenerateResource.cache
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.exe
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.pdb
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.exe.config
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.exe
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.pdb
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug\Guna.UI2.dll
+D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.Up2Date

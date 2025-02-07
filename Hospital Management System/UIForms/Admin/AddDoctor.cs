@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Skylines.UIForms.admin;
+using System;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 
@@ -48,7 +49,7 @@ namespace AMS.UIForms.Admin
         private void Clear()
         {
             ID.Text = "";
-            Name.Text = "";
+            DoctorName.Text = "";
             Specs.Text = "";
             number.Text = "";
             salary.Text = "";
@@ -58,14 +59,14 @@ namespace AMS.UIForms.Admin
         {
             string con = "your_connection_string_here";
             string query = "INSERT INTO Doctor (DoctorID, DoctorName, Specialization, PhoneNumber, Salary)"
-              + "VALUES(@ID,@Name,@Specs,@number,@salary)";
+              + "VALUES(@ID,@DoctorName,@Specs,@number,@salary)";
             using (SqlConnection connection = new SqlConnection(con))
             {
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
                     connection.Open();
                     command.Parameters.AddWithValue("@ID", ID.Text);
-                    command.Parameters.AddWithValue("@Name", Name.Text);
+                    command.Parameters.AddWithValue("@DoctorName", DoctorName.Text);
                     command.Parameters.AddWithValue("@Specs", Specs.Text);
                     command.Parameters.AddWithValue("@number", number.Text);
                     command.Parameters.AddWithValue("@salary", salary.Text);
@@ -75,6 +76,18 @@ namespace AMS.UIForms.Admin
                     Clear();
                 }
             }
+        }
+
+        private void Name_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            AdminPanel adminPanel = new AdminPanel();
+            adminPanel.Show();
         }
     }
 }

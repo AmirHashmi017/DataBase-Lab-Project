@@ -32,8 +32,8 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.guna2GradientButton11 = new Guna.UI2.WinForms.Guna2GradientButton();
             this.guna2GradientButton7 = new Guna.UI2.WinForms.Guna2GradientButton();
-            this.guna2GradientButton24 = new Guna.UI2.WinForms.Guna2GradientButton();
             this.guna2CirclePictureBox2 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.guna2GradientButton24 = new Guna.UI2.WinForms.Guna2GradientButton();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel4 = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -43,12 +43,13 @@
             this.number = new Guna.UI2.WinForms.Guna2TextBox();
             this.salary = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.Name = new Guna.UI2.WinForms.Guna2TextBox();
             this.ID = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel6 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2GradientPanel1 = new Guna.UI2.WinForms.Guna2GradientPanel();
             this.guna2GradientButton1 = new Guna.UI2.WinForms.Guna2GradientButton();
             this.guna2HtmlLabel7 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.DoctorName = new Guna.UI2.WinForms.Guna2TextBox();
+            this.guna2GradientButton2 = new Guna.UI2.WinForms.Guna2GradientButton();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).BeginInit();
             this.guna2GradientPanel1.SuspendLayout();
@@ -119,6 +120,20 @@
             this.guna2GradientButton7.UseTransparentBackground = true;
             this.guna2GradientButton7.Click += new System.EventHandler(this.guna2GradientButton7_Click);
             // 
+            // guna2CirclePictureBox2
+            // 
+            this.guna2CirclePictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("guna2CirclePictureBox2.Image")));
+            this.guna2CirclePictureBox2.ImageRotate = 0F;
+            this.guna2CirclePictureBox2.Location = new System.Drawing.Point(8, 0);
+            this.guna2CirclePictureBox2.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.guna2CirclePictureBox2.Name = "guna2CirclePictureBox2";
+            this.guna2CirclePictureBox2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.guna2CirclePictureBox2.Size = new System.Drawing.Size(155, 129);
+            this.guna2CirclePictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2CirclePictureBox2.TabIndex = 7;
+            this.guna2CirclePictureBox2.TabStop = false;
+            this.guna2CirclePictureBox2.Click += new System.EventHandler(this.guna2CirclePictureBox2_Click);
+            // 
             // guna2GradientButton24
             // 
             this.guna2GradientButton24.BackColor = System.Drawing.Color.Transparent;
@@ -143,20 +158,6 @@
             this.guna2GradientButton24.Text = "Logout";
             this.guna2GradientButton24.UseTransparentBackground = true;
             this.guna2GradientButton24.Click += new System.EventHandler(this.guna2GradientButton24_Click);
-            // 
-            // guna2CirclePictureBox2
-            // 
-            this.guna2CirclePictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("guna2CirclePictureBox2.Image")));
-            this.guna2CirclePictureBox2.ImageRotate = 0F;
-            this.guna2CirclePictureBox2.Location = new System.Drawing.Point(8, 0);
-            this.guna2CirclePictureBox2.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.guna2CirclePictureBox2.Name = "guna2CirclePictureBox2";
-            this.guna2CirclePictureBox2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox2.Size = new System.Drawing.Size(155, 129);
-            this.guna2CirclePictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2CirclePictureBox2.TabIndex = 7;
-            this.guna2CirclePictureBox2.TabStop = false;
-            this.guna2CirclePictureBox2.Click += new System.EventHandler(this.guna2CirclePictureBox2_Click);
             // 
             // guna2HtmlLabel2
             // 
@@ -281,25 +282,6 @@
             this.guna2HtmlLabel1.Text = "Doctor Name:";
             this.guna2HtmlLabel1.Click += new System.EventHandler(this.guna2HtmlLabel1_Click);
             // 
-            // Name
-            // 
-            this.Name.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.Name.DefaultText = "";
-            this.Name.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.Name.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.Name.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.Name.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.Name.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.Name.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.Name.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.Name.Location = new System.Drawing.Point(131, 47);
-            this.Name.Name = "Name";
-            this.Name.PasswordChar = '\0';
-            this.Name.PlaceholderText = "";
-            this.Name.SelectedText = "";
-            this.Name.Size = new System.Drawing.Size(126, 15);
-            this.Name.TabIndex = 20;
-            // 
             // ID
             // 
             this.ID.Cursor = System.Windows.Forms.Cursors.IBeam;
@@ -331,6 +313,7 @@
             // guna2GradientPanel1
             // 
             this.guna2GradientPanel1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.guna2GradientPanel1.Controls.Add(this.DoctorName);
             this.guna2GradientPanel1.Controls.Add(this.Specs);
             this.guna2GradientPanel1.Controls.Add(this.ID);
             this.guna2GradientPanel1.Controls.Add(this.guna2HtmlLabel1);
@@ -342,7 +325,6 @@
             this.guna2GradientPanel1.Controls.Add(this.guna2HtmlLabel4);
             this.guna2GradientPanel1.Controls.Add(this.email);
             this.guna2GradientPanel1.Controls.Add(this.guna2HtmlLabel5);
-            this.guna2GradientPanel1.Controls.Add(this.Name);
             this.guna2GradientPanel1.Location = new System.Drawing.Point(269, 80);
             this.guna2GradientPanel1.Name = "guna2GradientPanel1";
             this.guna2GradientPanel1.Size = new System.Drawing.Size(327, 205);
@@ -375,11 +357,48 @@
             this.guna2HtmlLabel7.TabIndex = 29;
             this.guna2HtmlLabel7.Text = "ADD DOCTOR";
             // 
+            // DoctorName
+            // 
+            this.DoctorName.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.DoctorName.DefaultText = "";
+            this.DoctorName.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.DoctorName.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.DoctorName.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.DoctorName.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.DoctorName.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.DoctorName.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.DoctorName.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.DoctorName.Location = new System.Drawing.Point(131, 47);
+            this.DoctorName.Name = "DoctorName";
+            this.DoctorName.PasswordChar = '\0';
+            this.DoctorName.PlaceholderText = "";
+            this.DoctorName.SelectedText = "";
+            this.DoctorName.Size = new System.Drawing.Size(126, 15);
+            this.DoctorName.TabIndex = 27;
+            // 
+            // guna2GradientButton2
+            // 
+            this.guna2GradientButton2.BorderRadius = 15;
+            this.guna2GradientButton2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2GradientButton2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2GradientButton2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2GradientButton2.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2GradientButton2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2GradientButton2.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2GradientButton2.ForeColor = System.Drawing.Color.White;
+            this.guna2GradientButton2.Location = new System.Drawing.Point(723, 12);
+            this.guna2GradientButton2.Name = "guna2GradientButton2";
+            this.guna2GradientButton2.Size = new System.Drawing.Size(65, 24);
+            this.guna2GradientButton2.TabIndex = 35;
+            this.guna2GradientButton2.Text = "Back";
+            this.guna2GradientButton2.Click += new System.EventHandler(this.guna2GradientButton2_Click);
+            // 
             // Add_Doctor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.guna2GradientButton2);
             this.Controls.Add(this.guna2HtmlLabel7);
             this.Controls.Add(this.guna2GradientButton1);
             this.Controls.Add(this.guna2GradientPanel1);
@@ -410,11 +429,12 @@
         private Guna.UI2.WinForms.Guna2TextBox number;
         private Guna.UI2.WinForms.Guna2TextBox salary;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
-        private Guna.UI2.WinForms.Guna2TextBox Name;
         private Guna.UI2.WinForms.Guna2TextBox ID;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel6;
         private Guna.UI2.WinForms.Guna2GradientPanel guna2GradientPanel1;
         private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel7;
+        private Guna.UI2.WinForms.Guna2TextBox DoctorName;
+        private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton2;
     }
 }
