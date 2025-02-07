@@ -115,5 +115,145 @@ namespace Skylines.UIForms.admin
             Login login = new Login();
             login.Show();
         }
+
+        private void guna2Panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton10_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton12_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton15_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton16_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton17_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton18_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton19_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2CirclePictureBox1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2CirclePictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton20_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton21_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton22_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton23_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton25_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton26_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton27_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton28_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton29_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2CirclePictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton30_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
