@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Hospital_Management_System.Properties
+namespace Skylines.Properties
 {
 
 

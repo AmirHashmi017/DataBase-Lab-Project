@@ -1,10 +1,13 @@
-﻿using System;
+﻿using Skylines.UIForms.admin;
+using Skylines.UIForms.User;
+using SkyLines;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
-namespace Hospital_Management_System
+using SkyLinesLibrary;
+namespace Skylines
 {
     internal static class Program
     {
@@ -16,6 +19,7 @@ namespace Hospital_Management_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+//Running first form of application.
             Application.Run(new Form1());
         }
     }

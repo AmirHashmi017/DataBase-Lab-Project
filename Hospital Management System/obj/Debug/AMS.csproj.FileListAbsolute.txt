@@ -1,0 +1,445 @@
+C:\Users\LENOVO\Desktop\oop project\AMS\bin\Debug\AMS.exe.config
+C:\Users\LENOVO\Desktop\oop project\AMS\bin\Debug\AMS.exe
+C:\Users\LENOVO\Desktop\oop project\AMS\bin\Debug\AMS.pdb
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.Form1.resources
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.exe
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.pdb
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.UIForms.SignUp.resources
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.test.resources
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.UIForms.Login.resources
+C:\Users\LENOVO\Desktop\oop project\AMS\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.UIForms.Admin.AddFlight.resources
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.UIForms.Admin.AdminPanel.resources
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.UIForms.Admin.RemoveFlight.resources
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.UIForms.Admin.ViewFlights.resources
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\oop project\AMS\obj\Debug\AMS.UIForms.Admin.UpdateFlight.resources
+F:\Semester Projects(OOP)\AMS\bin\Debug\AMS.exe.config
+F:\Semester Projects(OOP)\AMS\bin\Debug\AMS.exe
+F:\Semester Projects(OOP)\AMS\bin\Debug\AMS.pdb
+F:\Semester Projects(OOP)\AMS\bin\Debug\Guna.UI2.dll
+F:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.AssemblyReference.cache
+F:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.Form1.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\AMS.Properties.Resources.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.test.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.RemoveFlight.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Login.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.SignUp.resources
+F:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.GenerateResource.cache
+F:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+F:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.Up2Date
+F:\Semester Projects(OOP)\AMS\obj\Debug\AMS.exe
+F:\Semester Projects(OOP)\AMS\obj\Debug\AMS.pdb
+I:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.AssemblyReference.cache
+I:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.Form1.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\AMS.Properties.Resources.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.test.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.RemoveFlight.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Login.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.SignUp.resources
+I:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.GenerateResource.cache
+I:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+I:\Semester Projects(OOP)\AMS\obj\Debug\AMS.exe
+I:\Semester Projects(OOP)\AMS\obj\Debug\AMS.pdb
+E:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.AssemblyReference.cache
+E:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.Form1.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\AMS.Properties.Resources.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.test.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.RemoveFlight.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.Login.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\Skylines.UIForms.SignUp.resources
+E:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.GenerateResource.cache
+E:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+E:\Semester Projects(OOP)\AMS\obj\Debug\AMS.exe
+E:\Semester Projects(OOP)\AMS\obj\Debug\AMS.pdb
+E:\Semester Projects(OOP)\AMS\bin\Debug\AMS.exe.config
+E:\Semester Projects(OOP)\AMS\bin\Debug\AMS.exe
+E:\Semester Projects(OOP)\AMS\bin\Debug\AMS.pdb
+E:\Semester Projects(OOP)\AMS\bin\Debug\Guna.UI2.dll
+E:\Semester Projects(OOP)\AMS\obj\Debug\AMS.csproj.Up2Date
+G:\Semester Projects(OOP)\AMS New\bin\Debug\AMS.exe.config
+G:\Semester Projects(OOP)\AMS New\bin\Debug\AMS.exe
+G:\Semester Projects(OOP)\AMS New\bin\Debug\AMS.pdb
+G:\Semester Projects(OOP)\AMS New\bin\Debug\Guna.UI2.dll
+G:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.AssemblyReference.cache
+G:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.Form1.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.Properties.Resources.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.test.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.RemoveFlight.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Login.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.SignUp.resources
+G:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.GenerateResource.cache
+G:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+G:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.CopyComplete
+G:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.exe
+G:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.pdb
+I:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.AssemblyReference.cache
+I:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.Form1.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.Properties.Resources.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.test.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.RemoveFlight.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Login.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.SignUp.resources
+I:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.GenerateResource.cache
+I:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+I:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.exe
+I:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.pdb
+D:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.AssemblyReference.cache
+D:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.Form1.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.Properties.Resources.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.test.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.RemoveFlight.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.Login.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\Skylines.UIForms.SignUp.resources
+D:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.GenerateResource.cache
+D:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+D:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.exe
+D:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.pdb
+D:\Semester Projects(OOP)\AMS New\bin\Debug\AMS.exe.config
+D:\Semester Projects(OOP)\AMS New\bin\Debug\AMS.exe
+D:\Semester Projects(OOP)\AMS New\bin\Debug\AMS.pdb
+D:\Semester Projects(OOP)\AMS New\bin\Debug\Guna.UI2.dll
+D:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.CopyComplete
+I:\Semester Projects(OOP)\AMS New\bin\Debug\AMS.exe.config
+I:\Semester Projects(OOP)\AMS New\bin\Debug\AMS.exe
+I:\Semester Projects(OOP)\AMS New\bin\Debug\AMS.pdb
+I:\Semester Projects(OOP)\AMS New\bin\Debug\Guna.UI2.dll
+I:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.Up2Date
+G:\Semester Projects(OOP)\AMS New\obj\Debug\AMS.csproj.SuggestedBindingRedirects.cache
+I:\AMS New\bin\Debug\AMS.exe.config
+I:\AMS New\bin\Debug\AMS.exe
+I:\AMS New\bin\Debug\AMS.pdb
+I:\AMS New\bin\Debug\Guna.UI2.dll
+I:\AMS New\obj\Debug\AMS.csproj.AssemblyReference.cache
+I:\AMS New\obj\Debug\Skylines.Form1.resources
+I:\AMS New\obj\Debug\AMS.Properties.Resources.resources
+I:\AMS New\obj\Debug\Skylines.test.resources
+I:\AMS New\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+I:\AMS New\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+I:\AMS New\obj\Debug\Skylines.UIForms.Admin.RemoveFlight.resources
+I:\AMS New\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+I:\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+I:\AMS New\obj\Debug\Skylines.UIForms.Login.resources
+I:\AMS New\obj\Debug\Skylines.UIForms.SignUp.resources
+I:\AMS New\obj\Debug\AMS.csproj.GenerateResource.cache
+I:\AMS New\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+I:\AMS New\obj\Debug\AMS.csproj.Up2Date
+I:\AMS New\obj\Debug\AMS.exe
+I:\AMS New\obj\Debug\AMS.pdb
+G:\AMS New\bin\Debug\AMS.exe.config
+G:\AMS New\bin\Debug\AMS.exe
+G:\AMS New\bin\Debug\AMS.pdb
+G:\AMS New\bin\Debug\Guna.UI2.dll
+G:\AMS New\obj\Debug\AMS.csproj.AssemblyReference.cache
+G:\AMS New\obj\Debug\Skylines.Form1.resources
+G:\AMS New\obj\Debug\AMS.Properties.Resources.resources
+G:\AMS New\obj\Debug\Skylines.test.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Login.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.SignUp.resources
+G:\AMS New\obj\Debug\AMS.csproj.GenerateResource.cache
+G:\AMS New\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+G:\AMS New\obj\Debug\AMS.csproj.CopyComplete
+G:\AMS New\obj\Debug\AMS.exe
+G:\AMS New\obj\Debug\AMS.pdb
+F:\AMS New\bin\Debug\AMS.exe.config
+F:\AMS New\bin\Debug\AMS.exe
+F:\AMS New\bin\Debug\AMS.pdb
+F:\AMS New\bin\Debug\Guna.UI2.dll
+F:\AMS New\obj\Debug\AMS.csproj.AssemblyReference.cache
+F:\AMS New\obj\Debug\AMS.csproj.SuggestedBindingRedirects.cache
+F:\AMS New\obj\Debug\Skylines.Form1.resources
+F:\AMS New\obj\Debug\AMS.Properties.Resources.resources
+F:\AMS New\obj\Debug\Skylines.test.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Login.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.SignUp.resources
+F:\AMS New\obj\Debug\AMS.csproj.GenerateResource.cache
+F:\AMS New\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+F:\AMS New\obj\Debug\AMS.csproj.CopyComplete
+F:\AMS New\obj\Debug\AMS.exe
+F:\AMS New\obj\Debug\AMS.pdb
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewFlightsRevenue.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.HireStaff.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.ExpelStaff.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.UpdateStaff.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.View_FeedBack.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewStaff.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.Admin.IssueDiscounts.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.User.SearchFlight.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.User.BookFlight.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.User.CancelReserveSeat.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.User.ViewReservedFlights.resources
+F:\AMS New\obj\Debug\Skylines.UIForms.User.SubmitFeedBack.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.ExpelStaff.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.HireStaff.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.IssueDiscounts.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.UpdateStaff.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.View_FeedBack.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewFlightsRevenue.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.Admin.ViewStaff.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.User.BookFlight.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.User.CancelReserveSeat.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.User.SearchFlight.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.User.SubmitFeedBack.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.User.ViewReservedFlights.resources
+G:\AMS New\obj\Debug\Skylines.UIForms.User.GetDiscountedFlights.resources
+G:\AMSNew\obj\Debug\AMS.csproj.AssemblyReference.cache
+G:\AMSNew\obj\Debug\Skylines.Form1.resources
+G:\AMSNew\obj\Debug\AMS.Properties.Resources.resources
+G:\AMSNew\obj\Debug\Skylines.test.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.AddFlight.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.AdminPanel.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.ExpelStaff.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.User.GetDiscountedFlights.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.HireStaff.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.IssueDiscounts.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.UpdateFlight.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.UpdateStaff.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.View_FeedBack.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.ViewFlights.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.ViewFlightsRevenue.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Admin.ViewStaff.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.Login.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.SignUp.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.User.BookFlight.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.User.CancelReserveSeat.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.User.SearchFlight.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.User.SubmitFeedBack.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+G:\AMSNew\obj\Debug\Skylines.UIForms.User.ViewReservedFlights.resources
+G:\AMSNew\obj\Debug\AMS.csproj.GenerateResource.cache
+G:\AMSNew\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+G:\AMSNew\obj\Debug\AMS.exe
+G:\AMSNew\obj\Debug\AMS.pdb
+G:\AMSNew\bin\Debug\AMS.exe.config
+G:\AMSNew\bin\Debug\AMS.exe
+G:\AMSNew\bin\Debug\AMS.pdb
+G:\AMSNew\bin\Debug\Guna.UI2.dll
+G:\AMSNew\obj\Debug\AMS.csproj.CopyComplete
+G:\AMSNew\bin\Debug\SkyLinesLibrary.pdb
+G:\AMSNew\bin\Debug\SkyLinesLibrary.dll
+I:\AMSNew\bin\Debug\AMS.exe.config
+I:\AMSNew\bin\Debug\AMS.exe
+I:\AMSNew\bin\Debug\AMS.pdb
+I:\AMSNew\bin\Debug\Guna.UI2.dll
+I:\AMSNew\bin\Debug\SkyLinesLibrary.dll
+I:\AMSNew\bin\Debug\SkyLinesLibrary.pdb
+I:\AMSNew\obj\Debug\AMS.csproj.AssemblyReference.cache
+I:\AMSNew\obj\Debug\Skylines.Form1.resources
+I:\AMSNew\obj\Debug\AMS.Properties.Resources.resources
+I:\AMSNew\obj\Debug\Skylines.test.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.AddFlight.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.ExpelStaff.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.User.GetDiscountedFlights.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.HireStaff.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.IssueDiscounts.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.UpdateFlight.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.UpdateStaff.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.View_FeedBack.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.ViewFlights.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.ViewFlightsRevenue.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.admin.ViewStaff.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.Login.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.SignUp.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.User.BookFlight.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.User.CancelReserveSeat.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.User.SearchFlight.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.User.SubmitFeedBack.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+I:\AMSNew\obj\Debug\Skylines.UIForms.User.ViewReservedFlights.resources
+I:\AMSNew\obj\Debug\AMS.csproj.GenerateResource.cache
+I:\AMSNew\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+I:\AMSNew\obj\Debug\AMS.csproj.Up2Date
+I:\AMSNew\obj\Debug\AMS.exe
+I:\AMSNew\obj\Debug\AMS.pdb
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\bin\Debug\AMS.exe.config
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\bin\Debug\AMS.exe
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\bin\Debug\AMS.pdb
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\bin\Debug\Guna.UI2.dll
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\bin\Debug\SkyLinesLibrary.dll
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\bin\Debug\SkyLinesLibrary.pdb
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\AMS.csproj.AssemblyReference.cache
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.Form1.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\AMS.Properties.Resources.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.test.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.AddFlight.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.ExpelStaff.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.User.GetDiscountedFlights.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.HireStaff.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.IssueDiscounts.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.UpdateFlight.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.UpdateStaff.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.View_FeedBack.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewFlights.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewFlightsRevenue.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewStaff.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.Login.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.SignUp.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.User.BookFlight.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.User.CancelReserveSeat.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.User.GetMemberShipCard.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.User.SearchFlight.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.User.SubmitFeedBack.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.User.ViewReservedFlights.resources
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\AMS.csproj.GenerateResource.cache
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\AMS.csproj.CopyComplete
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\AMS.exe
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\AMS.pdb
+C:\Users\Aamir Hashmi\Desktop\AMSNew1\obj\Debug\Skylines.UIForms.Admin.ViewMembers.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\AMS.exe.config
+D:\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\AMS.exe
+D:\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\AMS.pdb
+D:\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\Guna.UI2.dll
+D:\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\SkyLinesLibrary.pdb
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.csproj.AssemblyReference.cache
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.Form1.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.Properties.Resources.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.test.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.AddFlight.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ExpelStaff.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewMembers.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.GetDiscountedFlights.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.HireStaff.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.IssueDiscounts.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.UpdateFlight.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.UpdateStaff.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.View_FeedBack.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewFlights.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewFlightsRevenue.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewStaff.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.Login.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.SignUp.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.BookFlight.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.CancelReserveSeat.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.GetMemberShipCard.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.SearchFlight.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.SubmitFeedBack.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.ViewReservedFlights.resources
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.csproj.GenerateResource.cache
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.csproj.Up2Date
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.exe
+D:\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.pdb
+D:\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\SkyLinesLibrary.dll
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\AMS.exe.config
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\AMS.exe
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\AMS.pdb
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\Guna.UI2.dll
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\SkyLinesLibrary.dll
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\bin\Debug\SkyLinesLibrary.pdb
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.csproj.AssemblyReference.cache
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.Form1.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.Properties.Resources.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.test.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.AddFlight.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ExpelStaff.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewMembers.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.GetDiscountedFlights.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.HireStaff.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.IssueDiscounts.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.UpdateFlight.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.UpdateStaff.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.View_FeedBack.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewFlights.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewFlightsRevenue.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.admin.ViewStaff.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.Login.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.SignUp.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.BookFlight.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.CancelReserveSeat.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.GetMemberShipCard.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.SearchFlight.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.SubmitFeedBack.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\Skylines.UIForms.User.ViewReservedFlights.resources
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.csproj.GenerateResource.cache
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.csproj.Up2Date
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.exe
+D:\Semester 02\Semester 02 Projects\Skylines\AMSNew1\obj\Debug\AMS.pdb
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.csproj.AssemblyReference.cache
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.exe
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.pdb
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\bin\Debug\AMS.exe.config
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\bin\Debug\AMS.exe
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\bin\Debug\AMS.pdb
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\bin\Debug\Guna.UI2.dll
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\bin\Debug\SkyLinesLibrary.pdb
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\Skylines.Form1.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.Properties.Resources.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\Skylines.test.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.UIForms.Doctor.AddAdmin.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.UIForms.Doctor.DoctorPanel.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.UIForms.Doctor.View_Appointments.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\Skylines.UIForms.Login.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\Skylines.UIForms.SignUp.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.csproj.GenerateResource.cache
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+D:\Github Repos\DataBase-Lab-Project\AMSNew1\obj\Debug\AMS.csproj.Up2Date
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.exe.config
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.exe
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.pdb
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\Guna.UI2.dll
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\SkyLinesLibrary.pdb
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.AssemblyReference.cache
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.Form1.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.Properties.Resources.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.test.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.AddAdmin.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.DoctorPanel.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.View_Appointments.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.Login.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.SignUp.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.User.UserPanel.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.GenerateResource.cache
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.Up2Date
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.exe
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.pdb
