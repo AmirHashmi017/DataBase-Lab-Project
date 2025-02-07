@@ -431,7 +431,6 @@ D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylin
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.Properties.Resources.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.test.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
-D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.AddAdmin.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.DoctorPanel.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.View_Appointments.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.Login.resources

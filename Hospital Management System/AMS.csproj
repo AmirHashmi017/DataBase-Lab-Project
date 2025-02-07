@@ -52,12 +52,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UIForms\Doctor\AddAdmin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UIForms\Doctor\AddAdmin.Designer.cs">
-      <DependentUpon>AddAdmin.cs</DependentUpon>
-    </Compile>
     <Compile Include="UIForms\Doctor\DoctorPanel.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -126,9 +120,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UIForms\Admin\AdminPanel.resx">
       <DependentUpon>AdminPanel.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UIForms\Doctor\AddAdmin.resx">
-      <DependentUpon>AddAdmin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UIForms\Doctor\DoctorPanel.resx">
       <DependentUpon>DoctorPanel.cs</DependentUpon>
