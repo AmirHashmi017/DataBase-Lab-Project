@@ -1,7 +1,6 @@
 ﻿using Skylines.UIForms.admin;
 using Skylines.UIForms.User;
 using AMS.UIForms.Doctor;
-using SkyLines;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,7 +12,6 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using SkyLinesLibrary;
 namespace Skylines.UIForms
 {
     public partial class Login : Form
@@ -65,14 +63,17 @@ namespace Skylines.UIForms
             string password = passwordTxt.Text;
             if (!string.IsNullOrEmpty(name) && !string.IsNullOrEmpty(password))
             {
-                if (ObjectHandler.GetClientDL().IsClientExist(name, password))
-                {
-                    Index = ObjectHandler.GetClientDL().FindClient(name, password);
-                    result = "User";
+                if (name=="ali" && password=="123")
+                { 
+                    result = "patient";
                 }
-                else if (ObjectHandler.GetAdminDL().IsAdminExist(name, password))
+                else if (name == "amir" && password == "191")
                 {
                     result = "admin";
+                }
+                else if (name == "mobeen" && password == "123")
+                {
+                    result = "doctor";
                 }
                 if (result != "")
                 {
@@ -85,16 +86,20 @@ namespace Skylines.UIForms
                 if (result.ToLower() == "admin")
                 {
                     this.Hide();
-                    DoctorPanel doctorPanel = new DoctorPanel();
-                    doctorPanel.Show();
-                    //AdminPanel adminPanel = new AdminPanel();
-                    //adminPanel.Show();
+                    AdminPanel adminPanel = new AdminPanel();
+                    adminPanel.Show();
                 }
-                else if (result.ToLower() == "user")
+                else if (result.ToLower() == "patient")
                 {
                     this.Hide();
                     UserPanel userPanel = new UserPanel();
                     userPanel.Show();
+                }
+                else if(result.ToLower()=="doctor")
+                 {
+                    this.Hide();
+                    DoctorPanel doctorPanel = new DoctorPanel();
+                    doctorPanel.Show();
                 }
             }
             else

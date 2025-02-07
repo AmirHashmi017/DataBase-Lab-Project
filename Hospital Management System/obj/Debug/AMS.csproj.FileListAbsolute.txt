@@ -426,7 +426,6 @@ D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.ex
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.exe
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.pdb
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\Guna.UI2.dll
-D:\Github Repos\DataBase-Lab-Project\Hospital Management System\bin\Debug\SkyLinesLibrary.pdb
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.AssemblyReference.cache
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.Form1.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.Properties.Resources.resources

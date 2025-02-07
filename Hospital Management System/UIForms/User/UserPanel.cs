@@ -8,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using SkyLinesLibrary;
 namespace Skylines.UIForms.User
 {
     public partial class UserPanel : Form

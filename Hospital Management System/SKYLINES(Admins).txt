@@ -1,2 +1,0 @@
-amir,191,Admin
-abdullah,123,Admin
