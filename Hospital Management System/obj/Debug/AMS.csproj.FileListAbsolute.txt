@@ -462,3 +462,5 @@ D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug
 D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.pdb
 D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug\Guna.UI2.dll
 D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.Up2Date
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Doctor.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Nurse.resources

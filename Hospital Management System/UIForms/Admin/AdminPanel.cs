@@ -34,20 +34,9 @@ namespace Skylines.UIForms.admin
 
         }
 
-        private void guna2GradientButton1_Click(object sender, EventArgs e)
-        {
-            
-        }
-
         private void guna2GradientButton2_Click(object sender, EventArgs e)
         {
-            
-        }
-
-        private void guna2GradientButton3_Click(object sender, EventArgs e)
-        {
-            
-
+            loadForm(new AMS.UIForms.Doctor.View_Appointments());
         }
 
         private void guna2GradientButton4_Click(object sender, EventArgs e)
@@ -60,16 +49,6 @@ namespace Skylines.UIForms.admin
 
         }
 
-        private void guna2CirclePictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void LoadingPanel_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
         private void AdminPanel_Load(object sender, EventArgs e)
         {
 
@@ -77,49 +56,18 @@ namespace Skylines.UIForms.admin
 
         private void guna2GradientButton6_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Add_Doctor add_Doctor = new Add_Doctor();
-            add_Doctor.Show();
+            
 
-        }
-
-        private void guna2GradientButton10_Click(object sender, EventArgs e)
-        {
-          
         }
 
         private void guna2GradientButton8_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Add_Nurse add_Nurse = new Add_Nurse();
-            add_Nurse.Show();
-        }
-
-        private void guna2GradientButton9_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void guna2GradientButton7_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void guna2GradientButton11_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void guna2GradientButton12_Click(object sender, EventArgs e)
-        {
-           
+            loadForm(new AMS.UIForms.Admin.Add_Nurse());
         }
 
         private void guna2GradientButton24_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Login login = new Login();
-            login.Show();
+            
         }
 
         private void guna2Panel2_Paint(object sender, PaintEventArgs e)
@@ -260,6 +208,28 @@ namespace Skylines.UIForms.admin
         private void guna2GradientButton30_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void guna2GradientButton13_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton6_Click_1(object sender, EventArgs e)
+        {
+            loadForm(new AMS.UIForms.Admin.Add_Doctor());
+        }
+
+        private void guna2GradientButton9_Click(object sender, EventArgs e)
+        {
+            loadForm(new AMS.UIForms.Admin.Add_Nurse());
+        }
+
+        private void guna2GradientButton1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.Show();
         }
     }
 }

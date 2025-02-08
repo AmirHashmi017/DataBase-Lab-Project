@@ -21,5 +21,10 @@ namespace AMS.UIForms.Doctor
         {
 
         }
+
+        private void View_Appointments_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

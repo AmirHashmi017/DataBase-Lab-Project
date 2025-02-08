@@ -29,14 +29,14 @@ namespace Skylines.UIForms
         private void guna2GradientButton1_Click(object sender, EventArgs e)
         {
 
-            string name = nameTxt.Text;
+            string name = IDTxt.Text;
 
             string password = passwordTxt.Text;
            
         }
             private void Clear()
             {
-                nameTxt.Text = "";
+                IDTxt.Text = "";
                 passwordTxt.Text = "";
                 RoleTxt.Text = "";
             }

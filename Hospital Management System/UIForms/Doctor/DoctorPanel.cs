@@ -51,5 +51,10 @@ namespace AMS.UIForms.Doctor
             Login login = new Login();
             login.Show();
         }
+
+        private void guna2GradientButton7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

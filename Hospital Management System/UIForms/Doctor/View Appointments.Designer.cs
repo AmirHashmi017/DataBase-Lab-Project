@@ -68,6 +68,7 @@
             this.Controls.Add(this.label1);
             this.Name = "View_Appointments";
             this.Text = "View_Appointments";
+            this.Load += new System.EventHandler(this.View_Appointments_Load);
             ((System.ComponentModel.ISupportInitialize)(this.FlightGrid)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
