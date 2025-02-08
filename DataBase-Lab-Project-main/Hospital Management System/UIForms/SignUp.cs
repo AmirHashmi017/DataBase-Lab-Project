@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Xml.Linq;
+using Skylines;
+
+
+namespace Skylines.UIForms
+{
+    public partial class SignUp : Form
+    {
+        public SignUp()
+        {
+            InitializeComponent();
+        }
+
+        private void guna2TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void guna2GradientButton1_Click(object sender, EventArgs e)
+        {
+
+            string name = nameTxt.Text;
+
+            string password = passwordTxt.Text;
+           
+        }
+            private void Clear()
+            {
+                nameTxt.Text = "";
+                passwordTxt.Text = "";
+                RoleTxt.Text = "";
+            }
+
+        private void guna2GradientButton2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login f=new Login();
+            f.Show();
+        }
+
+        private void SignUp_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+    }
