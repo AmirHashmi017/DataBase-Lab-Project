@@ -513,3 +513,4 @@ D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UI
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.UserPanel.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.ViewRooms.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.DoctorSchedule.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.DoctorSchedule.resources
