@@ -435,7 +435,6 @@ D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UI
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.View_Appointments.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.Login.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.SignUp.resources
-D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.User.UserPanel.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.GenerateResource.cache
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.CoreCompileInputs.cache
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.Up2Date
@@ -462,5 +461,55 @@ D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug
 D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.pdb
 D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\bin\Debug\Guna.UI2.dll
 D:\4 Sem\DATA BASE\LAB\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.Up2Date
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.exe.config
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.exe
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.pdb
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\bin\Debug\Guna.UI2.dll
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.AssemblyReference.cache
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.Form1.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.Properties.Resources.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.test.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Doctor.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Nurse.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.DoctorPanel.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.View_Appointments.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.Login.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.SignUp.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.GenerateResource.cache
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.Up2Date
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.exe
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.pdb
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.UserPanel.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.ViewRooms.resources
+C:\Users\musno\OneDrive\Desktop\SEMESTER 4\DB LAB\LabProject\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.ApplyRoom.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.exe.config
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.exe
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\bin\Debug\AMS.pdb
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.Form1.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.Properties.Resources.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.test.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Doctor.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Nurse.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.admin.AdminPanel.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.DoctorPanel.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.View_Appointments.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.Login.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\Skylines.UIForms.SignUp.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.ApplyRoom.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.UserPanel.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.ViewRooms.resources
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.csproj.Up2Date
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.exe
+C:\Users\DELL\Downloads\DataBase-Lab-Project-main\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.pdb
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Doctor.resources
 D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Admin.Add_Nurse.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.ApplyRoom.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.UserPanel.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.User.ViewRooms.resources
+D:\Github Repos\DataBase-Lab-Project\Hospital Management System\obj\Debug\AMS.UIForms.Doctor.DoctorSchedule.resources

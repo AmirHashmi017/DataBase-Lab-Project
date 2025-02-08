@@ -38,21 +38,21 @@
             this.guna2GradientButton6 = new Guna.UI2.WinForms.Guna2GradientButton();
             this.guna2GradientButton8 = new Guna.UI2.WinForms.Guna2GradientButton();
             this.guna2GradientButton9 = new Guna.UI2.WinForms.Guna2GradientButton();
-            this.guna2CirclePictureBox2 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2GradientButton3 = new Guna.UI2.WinForms.Guna2GradientButton();
+            this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // LoadingPanel
             // 
             this.LoadingPanel.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.LoadingPanel.Dock = System.Windows.Forms.DockStyle.Right;
-            this.LoadingPanel.Location = new System.Drawing.Point(170, 0);
-            this.LoadingPanel.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.LoadingPanel.MinimumSize = new System.Drawing.Size(1200, 1018);
+            this.LoadingPanel.Location = new System.Drawing.Point(169, 0);
+            this.LoadingPanel.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
+            this.LoadingPanel.MinimumSize = new System.Drawing.Size(1200, 1019);
             this.LoadingPanel.Name = "LoadingPanel";
-            this.LoadingPanel.Size = new System.Drawing.Size(1200, 1018);
+            this.LoadingPanel.Size = new System.Drawing.Size(1200, 1019);
             this.LoadingPanel.TabIndex = 3;
             this.LoadingPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.LoadingPanel_Paint);
             // 
@@ -73,7 +73,7 @@
             this.guna2GradientButton5.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.guna2GradientButton5.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2GradientButton5.Location = new System.Drawing.Point(3, 629);
-            this.guna2GradientButton5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientButton5.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.guna2GradientButton5.Name = "guna2GradientButton5";
             this.guna2GradientButton5.Size = new System.Drawing.Size(246, 75);
             this.guna2GradientButton5.TabIndex = 4;
@@ -97,7 +97,7 @@
             this.guna2GradientButton4.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.guna2GradientButton4.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2GradientButton4.Location = new System.Drawing.Point(3, 394);
-            this.guna2GradientButton4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientButton4.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.guna2GradientButton4.Name = "guna2GradientButton4";
             this.guna2GradientButton4.Size = new System.Drawing.Size(246, 75);
             this.guna2GradientButton4.TabIndex = 3;
@@ -120,8 +120,8 @@
             this.guna2GradientButton2.HoverState.FillColor = System.Drawing.Color.Blue;
             this.guna2GradientButton2.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.guna2GradientButton2.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2GradientButton2.Location = new System.Drawing.Point(0, 285);
-            this.guna2GradientButton2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientButton2.Location = new System.Drawing.Point(-1, 297);
+            this.guna2GradientButton2.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.guna2GradientButton2.Name = "guna2GradientButton2";
             this.guna2GradientButton2.Size = new System.Drawing.Size(246, 75);
             this.guna2GradientButton2.TabIndex = 1;
@@ -146,7 +146,7 @@
             this.guna2GradientButton1.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.guna2GradientButton1.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2GradientButton1.Location = new System.Drawing.Point(0, 754);
-            this.guna2GradientButton1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientButton1.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.guna2GradientButton1.Name = "guna2GradientButton1";
             this.guna2GradientButton1.Size = new System.Drawing.Size(246, 48);
             this.guna2GradientButton1.TabIndex = 0;
@@ -159,16 +159,16 @@
             this.panel1.BackColor = System.Drawing.Color.Navy;
             this.panel1.Controls.Add(this.guna2GradientButton6);
             this.panel1.Controls.Add(this.guna2GradientButton8);
-            this.panel1.Controls.Add(this.guna2GradientButton2);
             this.panel1.Controls.Add(this.guna2GradientButton9);
-            this.panel1.Controls.Add(this.guna2CirclePictureBox2);
             this.panel1.Controls.Add(this.guna2GradientButton3);
             this.panel1.Controls.Add(this.guna2GradientButton1);
+            this.panel1.Controls.Add(this.guna2GradientButton2);
             this.panel1.Controls.Add(this.guna2GradientButton5);
             this.panel1.Controls.Add(this.guna2GradientButton4);
+            this.panel1.Controls.Add(this.guna2CirclePictureBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(249, 749);
             this.panel1.TabIndex = 4;
@@ -189,13 +189,14 @@
             this.guna2GradientButton6.HoverState.FillColor = System.Drawing.Color.Blue;
             this.guna2GradientButton6.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.guna2GradientButton6.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2GradientButton6.Location = new System.Drawing.Point(2, 537);
-            this.guna2GradientButton6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientButton6.Location = new System.Drawing.Point(1, 538);
+            this.guna2GradientButton6.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.guna2GradientButton6.Name = "guna2GradientButton6";
             this.guna2GradientButton6.Size = new System.Drawing.Size(246, 75);
             this.guna2GradientButton6.TabIndex = 13;
-            this.guna2GradientButton6.Text = "Scedule Week";
+            this.guna2GradientButton6.Text = "Manage Scedule";
             this.guna2GradientButton6.UseTransparentBackground = true;
+            this.guna2GradientButton6.Click += new System.EventHandler(this.guna2GradientButton6_Click);
             // 
             // guna2GradientButton8
             // 
@@ -213,8 +214,8 @@
             this.guna2GradientButton8.HoverState.FillColor = System.Drawing.Color.Blue;
             this.guna2GradientButton8.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.guna2GradientButton8.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2GradientButton8.Location = new System.Drawing.Point(2, 651);
-            this.guna2GradientButton8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientButton8.Location = new System.Drawing.Point(1, 651);
+            this.guna2GradientButton8.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.guna2GradientButton8.Name = "guna2GradientButton8";
             this.guna2GradientButton8.Size = new System.Drawing.Size(246, 75);
             this.guna2GradientButton8.TabIndex = 11;
@@ -237,26 +238,13 @@
             this.guna2GradientButton9.HoverState.FillColor = System.Drawing.Color.Blue;
             this.guna2GradientButton9.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.guna2GradientButton9.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2GradientButton9.Location = new System.Drawing.Point(2, 415);
-            this.guna2GradientButton9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientButton9.Location = new System.Drawing.Point(1, 415);
+            this.guna2GradientButton9.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.guna2GradientButton9.Name = "guna2GradientButton9";
             this.guna2GradientButton9.Size = new System.Drawing.Size(246, 75);
             this.guna2GradientButton9.TabIndex = 10;
             this.guna2GradientButton9.Text = "View Patients";
             this.guna2GradientButton9.UseTransparentBackground = true;
-            // 
-            // guna2CirclePictureBox2
-            // 
-            this.guna2CirclePictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("guna2CirclePictureBox2.Image")));
-            this.guna2CirclePictureBox2.ImageRotate = 0F;
-            this.guna2CirclePictureBox2.Location = new System.Drawing.Point(10, 22);
-            this.guna2CirclePictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.guna2CirclePictureBox2.Name = "guna2CirclePictureBox2";
-            this.guna2CirclePictureBox2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox2.Size = new System.Drawing.Size(232, 198);
-            this.guna2CirclePictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2CirclePictureBox2.TabIndex = 12;
-            this.guna2CirclePictureBox2.TabStop = false;
             // 
             // guna2GradientButton3
             // 
@@ -275,24 +263,38 @@
             this.guna2GradientButton3.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.guna2GradientButton3.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2GradientButton3.Location = new System.Drawing.Point(3, 515);
-            this.guna2GradientButton3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientButton3.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
             this.guna2GradientButton3.Name = "guna2GradientButton3";
             this.guna2GradientButton3.Size = new System.Drawing.Size(246, 75);
             this.guna2GradientButton3.TabIndex = 8;
             this.guna2GradientButton3.Text = "Scedule Week";
             this.guna2GradientButton3.UseTransparentBackground = true;
             // 
+            // guna2CirclePictureBox1
+            // 
+            this.guna2CirclePictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2CirclePictureBox1.Image")));
+            this.guna2CirclePictureBox1.ImageRotate = 0F;
+            this.guna2CirclePictureBox1.Location = new System.Drawing.Point(12, 1);
+            this.guna2CirclePictureBox1.Margin = new System.Windows.Forms.Padding(3, 1, 3, 1);
+            this.guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
+            this.guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.guna2CirclePictureBox1.Size = new System.Drawing.Size(233, 199);
+            this.guna2CirclePictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2CirclePictureBox1.TabIndex = 7;
+            this.guna2CirclePictureBox1.TabStop = false;
+            // 
             // DoctorPanel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1370, 749);
+            this.ClientSize = new System.Drawing.Size(1369, 749);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.LoadingPanel);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "DoctorPanel";
             this.Text = "DoctorPanel";
             this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -305,10 +307,10 @@
         private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton2;
         private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton1;
         private System.Windows.Forms.Panel panel1;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
         private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton3;
         private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton6;
         private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton8;
         private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton9;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox2;
     }
 }

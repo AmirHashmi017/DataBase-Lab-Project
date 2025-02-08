@@ -1,5 +1,5 @@
-﻿using Skylines.UIForms;
-using System;
+﻿using System;
+using Skylines.UIForms;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,7 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-namespace Skylines.UIForms.User
+
+namespace AMS.UIForms.User
 {
     public partial class UserPanel : Form
     {
@@ -68,12 +69,12 @@ namespace Skylines.UIForms.User
 
         private void guna2GradientButton3_Click(object sender, EventArgs e)
         {
-            
+            loadForm(new ApplyRoom());
         }
 
         private void guna2GradientButton7_Click(object sender, EventArgs e)
         {
-            
+            loadForm(new ViewRooms());
         }
     }
 }

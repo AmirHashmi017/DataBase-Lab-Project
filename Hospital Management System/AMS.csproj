@@ -70,6 +70,12 @@
     <Compile Include="UIForms\Doctor\DoctorPanel.Designer.cs">
       <DependentUpon>DoctorPanel.cs</DependentUpon>
     </Compile>
+    <Compile Include="UIForms\Doctor\DoctorSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\Doctor\DoctorSchedule.Designer.cs">
+      <DependentUpon>DoctorSchedule.cs</DependentUpon>
+    </Compile>
     <Compile Include="UIForms\Doctor\View Appointments.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -108,12 +114,25 @@
     <Compile Include="UIForms\SignUp.Designer.cs">
       <DependentUpon>SignUp.cs</DependentUpon>
     </Compile>
+    <Compile Include="UIForms\User\ApplyRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\User\ApplyRoom.Designer.cs">
+      <DependentUpon>ApplyRoom.cs</DependentUpon>
+    </Compile>
     <Compile Include="UIForms\User\UserPanel.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="UIForms\User\UserPanel.Designer.cs">
       <DependentUpon>UserPanel.cs</DependentUpon>
     </Compile>
+    <Compile Include="UIForms\User\ViewRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\User\ViewRooms.Designer.cs">
+      <DependentUpon>ViewRooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UtilityCLass.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -142,6 +161,9 @@
     <EmbeddedResource Include="UIForms\Doctor\DoctorPanel.resx">
       <DependentUpon>DoctorPanel.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\Doctor\DoctorSchedule.resx">
+      <DependentUpon>DoctorSchedule.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UIForms\Doctor\View Appointments.resx">
       <DependentUpon>View Appointments.cs</DependentUpon>
     </EmbeddedResource>
@@ -151,8 +173,14 @@
     <EmbeddedResource Include="UIForms\SignUp.resx">
       <DependentUpon>SignUp.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\User\ApplyRoom.resx">
+      <DependentUpon>ApplyRoom.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UIForms\User\UserPanel.resx">
       <DependentUpon>UserPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\User\ViewRooms.resx">
+      <DependentUpon>ViewRooms.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

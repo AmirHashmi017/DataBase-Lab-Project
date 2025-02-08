@@ -1,5 +1,5 @@
 ﻿using Skylines.UIForms.admin;
-using Skylines.UIForms.User;
+using AMS.UIForms.User;
 using AMS.UIForms.Doctor;
 using System;
 using System.Collections.Generic;
@@ -12,11 +12,14 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using AMS;
+using System.Data.SqlClient;
 namespace Skylines.UIForms
 {
     public partial class Login : Form
     {
-        public static int Index;
+        public static string PatientID;
+        public static string DoctorID;
         public Login()
         {
            
@@ -40,7 +43,7 @@ namespace Skylines.UIForms
         }
         private void Clear()
         {
-            nameTxt.Text = "";
+            idTxt.Text = "";
             passwordTxt.Text = "";
         }
 
@@ -57,49 +60,72 @@ namespace Skylines.UIForms
 
         private void loginbutton_Click(object sender, EventArgs e)
         {
-           
-            string result = "";
-            string name = nameTxt.Text;
+            string id = idTxt.Text;
             string password = passwordTxt.Text;
-            if (!string.IsNullOrEmpty(name) && !string.IsNullOrEmpty(password))
+            string role = "";
+            if (!string.IsNullOrEmpty(id) && !string.IsNullOrEmpty(password))
             {
-                if (name=="ali" && password=="123")
-                { 
-                    result = "patient";
-                }
-                else if (name == "amir" && password == "191")
+                using (SqlConnection connect = new SqlConnection(UtilityCLass.getConnectionString()))
                 {
-                    result = "admin";
+                    string query1 = "SELECT COUNT(*) FROM Patient WHERE PatientID=@PatientID and LoginPassword=@LoginPassword";
+                    SqlCommand cmd1 = new SqlCommand(query1, connect);
+                    cmd1.Parameters.AddWithValue("@PatientID", id);
+                    cmd1.Parameters.AddWithValue("@LoginPassword", password);
+                    connect.Open();
+                    int count = (int)cmd1.ExecuteScalar();
+                    if (count > 0)
+                    {
+                        role = "Patient";
+                        PatientID = id;
+                    }
+                    if (role == "")
+                    {
+                        string query2 = "SELECT COUNT(*) FROM Doctor WHERE DoctorID=@PatientID and LoginPassword=@LoginPassword";
+                        SqlCommand cmd2 = new SqlCommand(query2, connect);
+                        cmd2.Parameters.AddWithValue("@PatientID", id);
+                        cmd2.Parameters.AddWithValue("@LoginPassword", password);
+                        count = (int)cmd2.ExecuteScalar();
+                        if (count > 0)
+                        {
+                            role = "Doctor";
+                            DoctorID= id;
+                        }
+                    }
+                    if (role == "")
+                    {
+                        string query3 = "SELECT COUNT(*) FROM Admin WHERE AdminID=@PatientID and LoginPassword=@LoginPassword";
+                        SqlCommand cmd3 = new SqlCommand(query3, connect);
+                        cmd3.Parameters.AddWithValue("@PatientID", id);
+                        cmd3.Parameters.AddWithValue("@LoginPassword", password);
+                        count = (int)cmd3.ExecuteScalar();
+                        if (count > 0)
+                        {
+                            role = "Admin";
+                        }
+                    }
+                    connect.Close();
                 }
-                else if (name == "mobeen" && password == "123")
-                {
-                    result = "doctor";
-                }
-                if (result != "")
-                {
-                    MessageBox.Show($"{name}! successfully Signed In.");
-                }
-                if (result == "")
-                {
-                    MessageBox.Show("No Such Person Exist.");
-                }
-                if (result.ToLower() == "admin")
+                if (role.ToLower() == "admin")
                 {
                     this.Hide();
                     AdminPanel adminPanel = new AdminPanel();
                     adminPanel.Show();
                 }
-                else if (result.ToLower() == "patient")
+                else if (role.ToLower() == "patient")
                 {
                     this.Hide();
                     UserPanel userPanel = new UserPanel();
                     userPanel.Show();
                 }
-                else if(result.ToLower()=="doctor")
+                else if(role.ToLower()=="doctor")
                  {
                     this.Hide();
                     DoctorPanel doctorPanel = new DoctorPanel();
                     doctorPanel.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Invalid Credentials.");
                 }
             }
             else
@@ -114,6 +140,11 @@ namespace Skylines.UIForms
             this.Hide();
             SignUp adminPanel = new SignUp();
             adminPanel.Show();
+        }
+
+        private void guna2CirclePictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

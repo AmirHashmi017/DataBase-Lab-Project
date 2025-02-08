@@ -1,4 +1,4 @@
-﻿namespace Skylines.UIForms.User
+﻿namespace AMS.UIForms.User
 {
     partial class UserPanel
     {

@@ -48,7 +48,11 @@ namespace AMS.UIForms.Admin
         }
         private void Clear()
         {
-            
+            ID.Text = "";
+            DoctorName.Text = "";
+            Specs.Text = "";
+            number.Text = "";
+            salary.Text = "";
         }
 
         private void guna2GradientButton1_Click(object sender, EventArgs e)
@@ -60,12 +64,12 @@ namespace AMS.UIForms.Admin
             {
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
-                    //connection.Open();
-                    //command.Parameters.AddWithValue("@ID", ID.Text);
-                    //command.Parameters.AddWithValue("@DoctorName", DoctorName.Text);
-                    //command.Parameters.AddWithValue("@Specs", Specs.Text);
-                    //command.Parameters.AddWithValue("@number", number.Text);
-                    //command.Parameters.AddWithValue("@salary", salary.Text);
+                    connection.Open();
+                    command.Parameters.AddWithValue("@ID", ID.Text);
+                    command.Parameters.AddWithValue("@DoctorName", DoctorName.Text);
+                    command.Parameters.AddWithValue("@Specs", Specs.Text);
+                    command.Parameters.AddWithValue("@number", number.Text);
+                    command.Parameters.AddWithValue("@salary", salary.Text);
                     command.ExecuteNonQuery();
                     connection.Close();
                     MessageBox.Show("Doctor Added Successfully");
@@ -81,12 +85,9 @@ namespace AMS.UIForms.Admin
 
         private void guna2GradientButton2_Click(object sender, EventArgs e)
         {
-            
-        }
-
-        private void Add_Doctor_Load(object sender, EventArgs e)
-        {
-
+            this.Close();
+            AdminPanel adminPanel = new AdminPanel();
+            adminPanel.Show();
         }
     }
 }

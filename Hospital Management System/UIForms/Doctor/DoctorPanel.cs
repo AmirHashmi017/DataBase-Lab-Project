@@ -52,9 +52,9 @@ namespace AMS.UIForms.Doctor
             login.Show();
         }
 
-        private void guna2GradientButton7_Click(object sender, EventArgs e)
+        private void guna2GradientButton6_Click(object sender, EventArgs e)
         {
-
+            loadForm(new Doctor.DoctorSchedule());
         }
     }
 }
