@@ -52,6 +52,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UIForms\Admin\AddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\Admin\AddAdmin.Designer.cs">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForms\Admin\AddDept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\Admin\AddDept.Designer.cs">
+      <DependentUpon>AddDept.cs</DependentUpon>
+    </Compile>
     <Compile Include="UIForms\Admin\AddDoctor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +75,24 @@
     </Compile>
     <Compile Include="UIForms\Admin\AddNurse.Designer.cs">
       <DependentUpon>AddNurse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForms\Admin\AddRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\Admin\AddRoom.Designer.cs">
+      <DependentUpon>AddRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForms\Admin\AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\Admin\AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForms\Admin\AssignDuty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\Admin\AssignDuty.Designer.cs">
+      <DependentUpon>AssignDuty.cs</DependentUpon>
     </Compile>
     <Compile Include="UIForms\Doctor\DoctorPanel.cs">
       <SubType>Form</SubType>
@@ -96,11 +126,11 @@
     <Compile Include="test.Designer.cs">
       <DependentUpon>test.cs</DependentUpon>
     </Compile>
-    <Compile Include="UIForms\Admin\AdminPanel.cs">
+    <Compile Include="UIForms\Doctor\Write Prescription.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UIForms\Admin\AdminPanel.Designer.cs">
-      <DependentUpon>AdminPanel.cs</DependentUpon>
+    <Compile Include="UIForms\Doctor\Write Prescription.Designer.cs">
+      <DependentUpon>Write Prescription.cs</DependentUpon>
     </Compile>
     <Compile Include="UIForms\Login.cs">
       <SubType>Form</SubType>
@@ -120,11 +150,23 @@
     <Compile Include="UIForms\User\ApplyRoom.Designer.cs">
       <DependentUpon>ApplyRoom.cs</DependentUpon>
     </Compile>
+    <Compile Include="UIForms\User\TakeAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\User\TakeAppointment.Designer.cs">
+      <DependentUpon>TakeAppointment.cs</DependentUpon>
+    </Compile>
     <Compile Include="UIForms\User\UserPanel.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="UIForms\User\UserPanel.Designer.cs">
       <DependentUpon>UserPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIForms\User\ViewPrescriptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIForms\User\ViewPrescriptions.Designer.cs">
+      <DependentUpon>ViewPrescriptions.cs</DependentUpon>
     </Compile>
     <Compile Include="UIForms\User\ViewRooms.cs">
       <SubType>Form</SubType>
@@ -149,14 +191,26 @@
     <EmbeddedResource Include="test.resx">
       <DependentUpon>test.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\Admin\AddAdmin.resx">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\Admin\AddDept.resx">
+      <DependentUpon>AddDept.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UIForms\Admin\AddDoctor.resx">
       <DependentUpon>AddDoctor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UIForms\Admin\AddNurse.resx">
       <DependentUpon>AddNurse.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\Admin\AddRoom.resx">
+      <DependentUpon>AddRoom.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UIForms\Admin\AdminPanel.resx">
       <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\Admin\AssignDuty.resx">
+      <DependentUpon>AssignDuty.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UIForms\Doctor\DoctorPanel.resx">
       <DependentUpon>DoctorPanel.cs</DependentUpon>
@@ -167,6 +221,9 @@
     <EmbeddedResource Include="UIForms\Doctor\View Appointments.resx">
       <DependentUpon>View Appointments.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\Doctor\Write Prescription.resx">
+      <DependentUpon>Write Prescription.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UIForms\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -176,8 +233,14 @@
     <EmbeddedResource Include="UIForms\User\ApplyRoom.resx">
       <DependentUpon>ApplyRoom.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\User\TakeAppointment.resx">
+      <DependentUpon>TakeAppointment.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UIForms\User\UserPanel.resx">
       <DependentUpon>UserPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIForms\User\ViewPrescriptions.resx">
+      <DependentUpon>ViewPrescriptions.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UIForms\User\ViewRooms.resx">
       <DependentUpon>ViewRooms.cs</DependentUpon>

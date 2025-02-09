@@ -1,6 +1,6 @@
-﻿using Skylines.UIForms.admin;
-using AMS.UIForms.User;
+﻿using AMS.UIForms.User;
 using AMS.UIForms.Doctor;
+using AMS.UIForms.Admin;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

@@ -1,4 +1,4 @@
-﻿using Skylines.UIForms.admin;
+﻿
 using AMS.UIForms.User;
 
 using System;

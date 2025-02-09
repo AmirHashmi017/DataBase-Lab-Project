@@ -1,5 +1,6 @@
-﻿using Skylines.UIForms.admin;
+﻿
 using System;
+using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 
@@ -11,7 +12,7 @@ namespace AMS.UIForms.Admin
         {
             InitializeComponent();
         }
-
+        
         private void guna2HtmlLabel1_Click(object sender, EventArgs e)
         {
 
@@ -53,27 +54,45 @@ namespace AMS.UIForms.Admin
             Specs.Text = "";
             number.Text = "";
             salary.Text = "";
+            email.Text = "";
+            pass.Text = "";
         }
 
         private void guna2GradientButton1_Click(object sender, EventArgs e)
         {
-            string con = "your_connection_string_here";
-            string query = "INSERT INTO Doctor (DoctorID, DoctorName, Specialization, PhoneNumber, Salary)"
-              + "VALUES(@ID,@DoctorName,@Specs,@number,@salary)";
-            using (SqlConnection connection = new SqlConnection(con))
+            string check = "SELECT * FROM Doctor WHERE DoctorID = '" + ID.Text + "'";
+            using (SqlConnection connection = new SqlConnection(UtilityCLass.getConnectionString()))
+            {
+                SqlCommand command = new SqlCommand(check, connection);
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    MessageBox.Show("DoctorID already taken.Try Different DoctorID.");
+                    return;
+                }
+                reader.Close();
+                connection.Close();
+            }
+            string query = "INSERT INTO Doctor (DoctorID,LoginPassword,DoctorName, Specialization,Email, PhoneNumber, Salary)"
+              + "VALUES(@ID,@pass,@DoctorName,@Specs,@Email,@number,@salary)";
+            using (SqlConnection connection = new SqlConnection(UtilityCLass.getConnectionString()))
             {
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
                     connection.Open();
                     command.Parameters.AddWithValue("@ID", ID.Text);
                     command.Parameters.AddWithValue("@DoctorName", DoctorName.Text);
+                    command.Parameters.AddWithValue("@pass", pass.Text);
                     command.Parameters.AddWithValue("@Specs", Specs.Text);
+                    command.Parameters.AddWithValue("@Email", email.Text);
                     command.Parameters.AddWithValue("@number", number.Text);
                     command.Parameters.AddWithValue("@salary", salary.Text);
                     command.ExecuteNonQuery();
                     connection.Close();
                     MessageBox.Show("Doctor Added Successfully");
                     Clear();
+                    DisplayDoctors();
                 }
             }
         }
@@ -85,9 +104,44 @@ namespace AMS.UIForms.Admin
 
         private void guna2GradientButton2_Click(object sender, EventArgs e)
         {
-            this.Close();
-            AdminPanel adminPanel = new AdminPanel();
-            adminPanel.Show();
+            Clear();
+        }
+
+        private void DisplayDoctors()
+        {
+            string query = "SELECT DoctorID, DoctorName,Specialization, Email,PhoneNumber,Salary FROM Doctor";
+
+            using (SqlConnection connection = new SqlConnection(UtilityCLass.getConnectionString()))
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+                DataTable dataTable = new DataTable();
+                dataTable.Load(reader);
+                Doctorgrid.DataSource = dataTable;
+                reader.Close();
+                connection.Close();
+            }
+        }
+
+        private void Doctorgrid_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            
+        }
+
+        private void Add_Doctor_Load_1(object sender, EventArgs e)
+        {
+            DisplayDoctors();
+        }
+
+        private void email_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Doctorgrid_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

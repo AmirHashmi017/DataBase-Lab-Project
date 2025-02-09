@@ -8,6 +8,7 @@ namespace AMS
 {
     public class UtilityCLass
     {
+        //private static string connectionString = "Data Source=Grey\\SQLEXPRESS;Initial Catalog=Skylines Hospital;Integrated Security=True";
         private static string connectionString = "Data Source=DESKTOP-ROS83B0\\SQLEXPRESS;Initial Catalog=Skylines Hospital;Integrated Security=True";
 
 

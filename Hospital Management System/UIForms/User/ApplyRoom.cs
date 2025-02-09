@@ -134,7 +134,7 @@ namespace AMS.UIForms.User
             con.Open();
             SqlCommand cmd = new SqlCommand("SELECT COUNT(*) FROM PatientRoomBooking where RoomID = @roomID and patientID = @patientID", con);
             cmd.Parameters.AddWithValue("@roomID", roomCombo.Text);
-            cmd.Parameters.AddWithValue("@patientID", "P004");
+            cmd.Parameters.AddWithValue("@patientID", Skylines.UIForms.Login.PatientID);
             int count = (int)(cmd.ExecuteScalar());
 
             con.Close();
@@ -144,6 +144,11 @@ namespace AMS.UIForms.User
         }
 
         private void RoomsGrid_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void roomCombo_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

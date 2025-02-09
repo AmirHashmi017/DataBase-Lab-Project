@@ -1,21 +1,22 @@
-﻿using AMS.UIForms.Admin;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using Skylines.UIForms;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-namespace Skylines.UIForms.admin
+
+namespace AMS.UIForms.Admin
 {
     public partial class AdminPanel : Form
     {
         public AdminPanel()
         {
             InitializeComponent();
-            this.Size = new Size(950, 800);
+            this.Size = new Size(850, 700);
         }
         public void loadForm(object form)
         {
@@ -34,95 +35,7 @@ namespace Skylines.UIForms.admin
 
         }
 
-        private void guna2GradientButton1_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void guna2GradientButton2_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void guna2GradientButton3_Click(object sender, EventArgs e)
-        {
-            
-
-        }
-
-        private void guna2GradientButton4_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void guna2GradientButton5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2CirclePictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void LoadingPanel_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void AdminPanel_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton6_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            Add_Doctor add_Doctor = new Add_Doctor();
-            add_Doctor.Show();
-
-        }
-
-        private void guna2GradientButton10_Click(object sender, EventArgs e)
-        {
-          
-        }
-
-        private void guna2GradientButton8_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            Add_Nurse add_Nurse = new Add_Nurse();
-            add_Nurse.Show();
-        }
-
-        private void guna2GradientButton9_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void guna2GradientButton7_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void guna2GradientButton11_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void guna2GradientButton12_Click(object sender, EventArgs e)
-        {
-           
-        }
-
-        private void guna2GradientButton24_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            Login login = new Login();
-            login.Show();
-        }
-
-        private void guna2Panel2_Paint(object sender, PaintEventArgs e)
         {
 
         }
@@ -132,134 +45,41 @@ namespace Skylines.UIForms.admin
 
         }
 
-        private void guna2Panel1_Paint(object sender, PaintEventArgs e)
+        private void guna2GradientButton2_Click(object sender, EventArgs e)
         {
-
+            loadForm(new Admin.AddAdmin());
         }
 
-        private void guna2GradientButton1_Click_1(object sender, EventArgs e)
+        private void guna2GradientButton1_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Login login = new Login();
+            login.Show();
         }
 
-        private void guna2GradientButton10_Click_1(object sender, EventArgs e)
+        private void guna2GradientButton9_Click(object sender, EventArgs e)
         {
-
+            loadForm(new Admin.AddDept());
         }
 
-        private void guna2GradientButton12_Click_1(object sender, EventArgs e)
+        private void guna2GradientButton6_Click(object sender, EventArgs e)
         {
-
+            loadForm(new Admin.AddRoom());
         }
 
-        private void guna2GradientButton13_Click(object sender, EventArgs e)
+        private void guna2GradientButton8_Click(object sender, EventArgs e)
         {
-
+            loadForm(new Admin.Add_Doctor());
         }
 
-        private void guna2GradientButton14_Click(object sender, EventArgs e)
+        private void guna2GradientButton7_Click(object sender, EventArgs e)
         {
-
+            loadForm(new Admin.Add_Nurse());
         }
 
-        private void guna2GradientButton15_Click(object sender, EventArgs e)
+        private void guna2GradientButton3_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void guna2GradientButton16_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton17_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton18_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel2_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton19_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2CirclePictureBox1_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2CirclePictureBox2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton20_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton21_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton22_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton23_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton25_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton26_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton27_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton28_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton29_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel3_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void guna2CirclePictureBox3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2GradientButton30_Click(object sender, EventArgs e)
-        {
-
+            loadForm(new Admin.AssignDuty());
         }
     }
 }

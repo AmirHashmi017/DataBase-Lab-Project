@@ -54,7 +54,7 @@ namespace AMS.UIForms.User
 
         private void guna2GradientButton2_Click(object sender, EventArgs e)
         {
-            
+            loadForm(new TakeAppointment());
         }
 
         private void guna2GradientButton4_Click(object sender, EventArgs e)
@@ -64,7 +64,7 @@ namespace AMS.UIForms.User
 
         private void guna2GradientButton5_Click(object sender, EventArgs e)
         {
-            
+            loadForm(new ViewPrescriptions());
         }
 
         private void guna2GradientButton3_Click(object sender, EventArgs e)

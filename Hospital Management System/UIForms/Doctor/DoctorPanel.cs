@@ -56,5 +56,15 @@ namespace AMS.UIForms.Doctor
         {
             loadForm(new Doctor.DoctorSchedule());
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton8_Click(object sender, EventArgs e)
+        {
+            loadForm(new Doctor.Write_Prescription());
+        }
     }
 }

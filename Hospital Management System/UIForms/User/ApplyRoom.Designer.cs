@@ -98,6 +98,7 @@
             this.roomCombo.Name = "roomCombo";
             this.roomCombo.Size = new System.Drawing.Size(172, 28);
             this.roomCombo.TabIndex = 72;
+            this.roomCombo.SelectedIndexChanged += new System.EventHandler(this.roomCombo_SelectedIndexChanged);
             // 
             // applyBtn
             // 
