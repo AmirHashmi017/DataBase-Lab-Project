@@ -33,7 +33,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.roomCombo = new System.Windows.Forms.ComboBox();
-            this.applyBtn = new System.Windows.Forms.Button();
+            this.guna2GradientButton1 = new Guna.UI2.WinForms.Guna2GradientButton();
             ((System.ComponentModel.ISupportInitialize)(this.RoomsGrid)).BeginInit();
             this.SuspendLayout();
             // 
@@ -83,7 +83,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Bold);
             this.label2.ForeColor = System.Drawing.Color.Navy;
-            this.label2.Location = new System.Drawing.Point(263, 690);
+            this.label2.Location = new System.Drawing.Point(719, 735);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(199, 32);
             this.label2.TabIndex = 71;
@@ -93,27 +93,30 @@
             // roomCombo
             // 
             this.roomCombo.FormattingEnabled = true;
-            this.roomCombo.Location = new System.Drawing.Point(465, 690);
+            this.roomCombo.Location = new System.Drawing.Point(921, 735);
             this.roomCombo.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.roomCombo.Name = "roomCombo";
             this.roomCombo.Size = new System.Drawing.Size(172, 28);
             this.roomCombo.TabIndex = 72;
             this.roomCombo.SelectedIndexChanged += new System.EventHandler(this.roomCombo_SelectedIndexChanged);
             // 
-            // applyBtn
+            // guna2GradientButton1
             // 
-            this.applyBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.applyBtn.BackColor = System.Drawing.Color.Navy;
-            this.applyBtn.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.applyBtn.ForeColor = System.Drawing.Color.White;
-            this.applyBtn.Location = new System.Drawing.Point(892, 680);
-            this.applyBtn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.applyBtn.Name = "applyBtn";
-            this.applyBtn.Size = new System.Drawing.Size(161, 54);
-            this.applyBtn.TabIndex = 73;
-            this.applyBtn.Text = "Take Room";
-            this.applyBtn.UseVisualStyleBackColor = false;
-            this.applyBtn.Click += new System.EventHandler(this.applyBtn_Click);
+            this.guna2GradientButton1.BorderRadius = 15;
+            this.guna2GradientButton1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2GradientButton1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2GradientButton1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2GradientButton1.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2GradientButton1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2GradientButton1.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2GradientButton1.ForeColor = System.Drawing.Color.White;
+            this.guna2GradientButton1.Location = new System.Drawing.Point(210, 707);
+            this.guna2GradientButton1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.guna2GradientButton1.Name = "guna2GradientButton1";
+            this.guna2GradientButton1.Size = new System.Drawing.Size(244, 69);
+            this.guna2GradientButton1.TabIndex = 107;
+            this.guna2GradientButton1.Text = "Take Room";
+            this.guna2GradientButton1.Click += new System.EventHandler(this.guna2GradientButton1_Click);
             // 
             // ApplyRoom
             // 
@@ -121,7 +124,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.ClientSize = new System.Drawing.Size(1176, 958);
-            this.Controls.Add(this.applyBtn);
+            this.Controls.Add(this.guna2GradientButton1);
             this.Controls.Add(this.roomCombo);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
@@ -144,6 +147,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox roomCombo;
-        private System.Windows.Forms.Button applyBtn;
+        private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton1;
     }
 }

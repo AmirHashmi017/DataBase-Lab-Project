@@ -81,31 +81,7 @@ namespace AMS.UIForms.User
 
         private void applyBtn_Click(object sender, EventArgs e)
         {
-            if (!ValidateIDCombo())
-            {
-                return;
-            }
-
-            string query = "INSERT INTO PatientRoomBooking (RoomID, PatientID) VALUES (@roomID, @patientID);UPDATE Room SET AvailableBeds = AvailableBeds - 1 WHERE RoomID = @roomID AND AvailableBeds > 0;";
-
-      
-
-            using (SqlConnection connection = new SqlConnection(UtilityCLass.getConnectionString()))
-            {
-                SqlCommand cmd = new SqlCommand(query, connection);
-                cmd.Parameters.AddWithValue("@roomID", roomCombo.Text);
-                cmd.Parameters.AddWithValue("@patientID", Skylines.UIForms.Login.PatientID);
-                connection.Open();
-                SqlDataReader reader = cmd.ExecuteReader();
-                DataTable dataTable = new DataTable();
-                dataTable.Load(reader);
-                RoomsGrid.DataSource = dataTable;
-                reader.Close();
-                connection.Close();
-            }
-
-            MessageBox.Show("Room Alotting Success!");
-            DisplayRooms();
+            
 
 
         }
@@ -151,6 +127,35 @@ namespace AMS.UIForms.User
         private void roomCombo_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void guna2GradientButton1_Click(object sender, EventArgs e)
+        {
+            if (!ValidateIDCombo())
+            {
+                return;
+            }
+
+            string query = "INSERT INTO PatientRoomBooking (RoomID, PatientID) VALUES (@roomID, @patientID);UPDATE Room SET AvailableBeds = AvailableBeds - 1 WHERE RoomID = @roomID AND AvailableBeds > 0;";
+
+
+
+            using (SqlConnection connection = new SqlConnection(UtilityCLass.getConnectionString()))
+            {
+                SqlCommand cmd = new SqlCommand(query, connection);
+                cmd.Parameters.AddWithValue("@roomID", roomCombo.Text);
+                cmd.Parameters.AddWithValue("@patientID", Skylines.UIForms.Login.PatientID);
+                connection.Open();
+                SqlDataReader reader = cmd.ExecuteReader();
+                DataTable dataTable = new DataTable();
+                dataTable.Load(reader);
+                RoomsGrid.DataSource = dataTable;
+                reader.Close();
+                connection.Close();
+            }
+
+            MessageBox.Show("Room Alotting Success!");
+            DisplayRooms();
         }
     }
 }
