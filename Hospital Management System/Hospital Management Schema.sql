@@ -486,6 +486,19 @@ SELECT d.ScheduleID,d.DoctorID,d.AvailableDate,d.StartTime,d.EndTime,d.Status,'D
 END
 END;
 
+GO
+CREATE TRIGGER  RestrictDeleteOnDoctorSchedule
+ON DoctorSchedule AFTER DELETE AS
+BEGIN
+	IF EXISTS(
+	SELECT 1 FROM deleted where DATEDIFF(DAY,GETDATE(),AvailableDate)<2
+	)
+	BEGIN
+		ROLLBACK Transaction;
+	RAISERROR('Cannot delete a schedule which is less than two days to come', 16, 1);
+    END
+END;
+
 
 --Trigger For Automatically deleting past Doctor Schedules
 GO
@@ -595,3 +608,10 @@ WHERE ScheduleID = 'SCH003';
 
 select * from DoctorScheduleLog
 
+--Checking my Restrict Delete Trigger
+INSERT INTO DoctorSchedule (ScheduleID, DoctorID, AvailableDate, StartTime, EndTime, Status)
+VALUES ('SCH0067', 'DOC123', '2025-02-16', '10:00:00', '11:00:00', 'Available');
+	
+DELETE FROM DoctorSchedule
+WHERE ScheduleID = 'SCH0056';
+use "Skylines Hospital"
